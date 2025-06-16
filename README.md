@@ -122,6 +122,7 @@ R-squared (R^2): 0.9999461662931567
 image attach:
 ![Image](https://github.com/user-attachments/assets/01d15db4-7d0f-427b-b8ca-17d18db28ff0)
 
+![Image](https://github.com/user-attachments/assets/bf453e37-cd7e-42e8-b8a0-994c2fc5d61f)
 📌 Notes
 The model in this example is trained on a very high-correlation dataset, which explains the extremely high R² value. Be cautious about overfitting in real-world scenarios.
 
