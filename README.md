@@ -116,7 +116,7 @@ You can use the trained model to predict the closing price for new stock data.
 📈 Example Output:
 Mean Squared Error (MSE): 1.711343180107485
 R-squared (R^2): 0.9999461662931567
-![image alt]("E:\WhatsApp Image 2025-06-16 at 23.07.06_ce4a878a.jpg")
+![CHEESE!]("E:\WhatsApp Image 2025-06-16 at 23.07.06_ce4a878a.jpg")
 
 📌 Notes
 The model in this example is trained on a very high-correlation dataset, which explains the extremely high R² value. Be cautious about overfitting in real-world scenarios.
