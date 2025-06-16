@@ -131,6 +131,11 @@ image attach:
 ![Image](https://github.com/user-attachments/assets/01d15db4-7d0f-427b-b8ca-17d18db28ff0)
 
 ![Image](https://github.com/user-attachments/assets/bf453e37-cd7e-42e8-b8a0-994c2fc5d61f)
+
+final decision:
+The analysis also showed that the random forest algorithm has the
+best accuracy because it received a 99.94% accuracy ratio in this work.
+
 📌 Notes
 The model in this example is trained on a very high-correlation dataset, which explains the extremely high R² value. Be cautious about overfitting in real-world scenarios.
 
