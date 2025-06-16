@@ -42,6 +42,9 @@ You can install the required libraries using:
 💻 Installation:
 pip install pandas numpy scikit-learn  matplotlib
 
+import:
+![Image](https://github.com/user-attachments/assets/0c2cf325-f7ee-41f1-b44f-df1c0f1d81b4)
+
 📊 Dataset:
 The dataset should contain the following features:
 
