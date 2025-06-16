@@ -2,6 +2,9 @@
 Prediction using ML
 Stock Price Prediction using Random Forest Regression
 This project demonstrates how to predict stock closing prices using the Random Forest Regression algorithm from the sklearn library. The model is trained on stock market data and evaluated using Mean Squared Error (MSE) and R-squared (R²) metrics.
+work-plan:
+![Image](https://github.com/user-attachments/assets/6598afd4-0544-495f-a285-f9450cf65b94)
+
 objective:
 Define the Problem
 Gather Data
