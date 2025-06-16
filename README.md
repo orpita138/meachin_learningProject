@@ -2,6 +2,7 @@
 Prediction using ML
 Stock Price Prediction using Random Forest Regression
 This project demonstrates how to predict stock closing prices using the Random Forest Regression algorithm from the sklearn library. The model is trained on stock market data and evaluated using Mean Squared Error (MSE) and R-squared (R²) metrics.
+
 work-plan:
 ![Image](https://github.com/user-attachments/assets/6598afd4-0544-495f-a285-f9450cf65b94)
 
@@ -35,6 +36,7 @@ Python 3.9 or later
 
 Jupyter Notebook
 
+
 Required Python libraries:
 
 pandas
@@ -42,13 +44,16 @@ pandas
 scikit-learn
 
 You can install the required libraries using:
+
 💻 Installation:
+
 pip install pandas numpy scikit-learn  matplotlib
 
 import:
 ![Image](https://github.com/user-attachments/assets/0c2cf325-f7ee-41f1-b44f-df1c0f1d81b4)
 
 📊 Dataset:
+
 The dataset should contain the following features:
 
 Open: Opening price of the stock
