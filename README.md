@@ -44,10 +44,15 @@ This project demonstrates how to predict stock closing prices using the Random F
 
 .
 ├── Final_Dataset112 (1).csv   # Dataset used for training and testing
+
 ├── stock_price_prediction.ipynb   # Jupyter Notebook containing Python code
+
 └── README.md
+
 🚀 Getting Started
+
 Prerequisites
+
 Make sure you have the following installed:
 
 Python 3.9 or later
