@@ -57,9 +57,13 @@ Jupyter Notebook
 
 Required Python libraries:
 
-pandas
+* pandas
 
-scikit-learn
+* scikit-learn
+
+* numpy
+
+* matplotlib
 
 You can install the required libraries using:
 
@@ -87,6 +91,7 @@ Prev_Close: Previous day's closing price
 Volume: Number of shares traded
 
 Models Implemented:
+
 1.Time Series Models
 
 * ARIMA
@@ -109,10 +114,9 @@ Evaluation:
 
 The model is evaluated using:
 
+* Mean Squared Error (MSE)
 
-Mean Squared Error (MSE)
-
-R-squared (R²) score
+ * R-squared (R²) score
 
 Prediction (Optional):
 
@@ -123,7 +127,9 @@ This project demonstrates how to predict stock closing prices using the Random F
 
 📈 Example Output:
 Mean Squared Error (MSE): 1.711343180107485
+
 R-squared (R^2): 0.9999461662931567
+
 image attach:
 
 ![Image](https://github.com/user-attachments/assets/2e29fcd1-382f-4e0d-8780-5c371ddce16e)
@@ -142,7 +148,3 @@ best accuracy because it received a 99.94% accuracy ratio in this work.
 The model in this example is trained on a very high-correlation dataset, which explains the extremely high R² value. Be cautious about overfitting in real-world scenarios.
 The current implementation assumes that all required features are present and properly preprocessed.
 
-📌 Notes
-
-The model in this example is trained on a very high-correlation dataset, which explains the extremely high R² value. Be cautious about overfitting in real-world scenarios.
-The current implementation assumes that all required features are present and properly preprocessed.
