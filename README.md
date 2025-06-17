@@ -125,6 +125,9 @@ This project demonstrates how to predict stock closing prices using the Random F
 Mean Squared Error (MSE): 1.711343180107485
 R-squared (R^2): 0.9999461662931567
 image attach:
+
+![Image](https://github.com/user-attachments/assets/2e29fcd1-382f-4e0d-8780-5c371ddce16e)
+
 ![Image](https://github.com/user-attachments/assets/01d15db4-7d0f-427b-b8ca-17d18db28ff0)
 
 ![Image](https://github.com/user-attachments/assets/bf453e37-cd7e-42e8-b8a0-994c2fc5d61f)
