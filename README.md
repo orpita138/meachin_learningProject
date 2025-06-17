@@ -3,41 +3,41 @@ Prediction using ML
 Stock Price Prediction using Random Forest Regression
 This project demonstrates how to predict stock closing prices using the Random Forest Regression algorithm from the sklearn library. The model is trained on stock market data and evaluated using Mean Squared Error (MSE) and R-squared (R²) metrics.
 
-work-plan:
+# work-plan:
 ![Image](https://github.com/user-attachments/assets/6598afd4-0544-495f-a285-f9450cf65b94)
 
-objective:
+# objective:
 
-Define the Problem
+* Define the Problem
 
-Gather Data
+* Gather Data
 
-Pre-process the Data
+* Pre-process the Data
 
-Feature Selection/Engineering
+* Feature Selection/Engineering
 
-Choose a Machine Learning Algorithm
+* Choose a Machine Learning Algorithm
 
-Train & Test  Model
+* Train & Test  Model
 
-Evaluate the Model
+* Evaluate the Model
 
 
-need of stock market prediction:
+# Need of stock market prediction:
 
-Decision Making
+* Decision Making
 
-Risk Management
+* Risk Management
 
-Market Analysis
+* Market Analysis
 
-Algorithmic Trading
+* Algorithmic Trading
 
-Forecasting Market Trends
+* Forecasting Market Trends
 
-Financial Planning
+* Financial Planning
 
-Quantitative Research
+* Quantitative Research
 
 
 📂 Project Structure
@@ -55,7 +55,7 @@ Python 3.9 or later
 Jupyter Notebook
 
 
-Required Python libraries:
+# Required Python libraries:
 
 * pandas
 
@@ -90,7 +90,7 @@ Prev_Close: Previous day's closing price
 
 Volume: Number of shares traded
 
-Models Implemented:
+# Models Implemented:
 
 1.Time Series Models
 
@@ -102,7 +102,7 @@ Models Implemented:
 * Random Forest
 * Support Vector Machines
 
-Train-Test Split:
+# Train-Test Split:
 
 The dataset is split into training and testing sets (80%-20% split).
 
@@ -110,7 +110,7 @@ Model Training:
 
 A Random Forest Regressor is trained on the training set.
 
-Evaluation:
+# Evaluation:
 
 The model is evaluated using:
 
@@ -139,7 +139,7 @@ image attach:
 
 ![Image](https://github.com/user-attachments/assets/bf453e37-cd7e-42e8-b8a0-994c2fc5d61f)
 
-final decision:
+# Final decision:
 
 The analysis also showed that the random forest algorithm has the
 best accuracy because it received a 99.94% accuracy ratio in this work.
