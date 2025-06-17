@@ -7,23 +7,41 @@ work-plan:
 ![Image](https://github.com/user-attachments/assets/6598afd4-0544-495f-a285-f9450cf65b94)
 
 objective:
+
 Define the Problem
+
 Gather Data
+
 Pre-process the Data
+
 Feature Selection/Engineering
+
 Choose a Machine Learning Algorithm
+
 Train & Test  Model
+
 Evaluate the Model
+
+
 need of stock market prediction:
+
 Decision Making
+
 Risk Management
+
 Market Analysis
+
 Algorithmic Trading
+
 Forecasting Market Trends
+
 Financial Planning
+
 Quantitative Research
 
+
 📂 Project Structure
+
 .
 ├── Final_Dataset112 (1).csv   # Dataset used for training and testing
 ├── stock_price_prediction.ipynb   # Jupyter Notebook containing Python code
@@ -79,34 +97,30 @@ Models Implemented:
 * Random Forest
 * Support Vector Machines
 
-📌 Replace the file path in the code with the correct path to your dataset if needed.
-
-🛠 Model Workflow
-Data Loading and Preparation:
-The stock data is read from a CSV file and relevant features are selected.
-
 Train-Test Split:
+
 The dataset is split into training and testing sets (80%-20% split).
 
 Model Training:
+
 A Random Forest Regressor is trained on the training set.
 
 Evaluation:
+
 The model is evaluated using:
+
 
 Mean Squared Error (MSE)
 
 R-squared (R²) score
 
 Prediction (Optional):
-You can use the trained model to predict the closing price for new stock data.
 
+You can use the trained model to predict the closing price for new stock data.
 Stock Price Prediction using Random Forest Regression
 This project demonstrates how to predict stock closing prices using the Random Forest Regression algorithm from the sklearn library. The model is trained on stock market data and evaluated using Mean Squared Error (MSE) and R-squared (R²) metrics.
 
-🛠 Model Workflow
-Data Loading and Preparation:
-The stock data is read from a CSV file and relevant features are selected.
+
 
 Train-Test Split:
 The dataset is split into training and testing sets (80%-20% split).
@@ -133,14 +147,16 @@ image attach:
 ![Image](https://github.com/user-attachments/assets/bf453e37-cd7e-42e8-b8a0-994c2fc5d61f)
 
 final decision:
+
 The analysis also showed that the random forest algorithm has the
 best accuracy because it received a 99.94% accuracy ratio in this work.
 
 📌 Notes
-The model in this example is trained on a very high-correlation dataset, which explains the extremely high R² value. Be cautious about overfitting in real-world scenarios.
 
+The model in this example is trained on a very high-correlation dataset, which explains the extremely high R² value. Be cautious about overfitting in real-world scenarios.
 The current implementation assumes that all required features are present and properly preprocessed.
-📌 Notes
-The model in this example is trained on a very high-correlation dataset, which explains the extremely high R² value. Be cautious about overfitting in real-world scenarios.
 
+📌 Notes
+
+The model in this example is trained on a very high-correlation dataset, which explains the extremely high R² value. Be cautious about overfitting in real-world scenarios.
 The current implementation assumes that all required features are present and properly preprocessed.
