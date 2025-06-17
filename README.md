@@ -1,4 +1,4 @@
-# meachin_learningProject
+#  Forecasting Fortunes of Stock Market Prediction  using Meachin Learning Techniques
 Prediction using ML
 Stock Price Prediction using Random Forest Regression
 This project demonstrates how to predict stock closing prices using the Random Forest Regression algorithm from the sklearn library. The model is trained on stock market data and evaluated using Mean Squared Error (MSE) and R-squared (R²) metrics.
